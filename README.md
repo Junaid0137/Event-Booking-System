@@ -1,1 +1,1 @@
-# Marriage-Hall-Booking-System
+# Event-Booking-System
